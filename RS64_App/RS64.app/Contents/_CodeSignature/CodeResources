@@ -1,0 +1,1655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict/>
+	<key>files2</key>
+	<dict>
+		<key>Frameworks/libopencv_alphamat.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			OxnGQI/mc+z4F4WOJyx7pw4K4U8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3b19c6408fe673ecf817858e272c7ba70e0ae14f"</string>
+		</dict>
+		<key>Frameworks/libopencv_alphamat.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			IGkBzBmeANedLTCOhRABzq7ngGQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"206901cc199e00d79d2d308e851001ceaee78064"</string>
+		</dict>
+		<key>Frameworks/libopencv_alphamat.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			mjuZCxZi3JJhfQJG/kMI0jr+1fw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9a3b990b1662dc92617d0246fe4308d23afed5fc"</string>
+		</dict>
+		<key>Frameworks/libopencv_aruco.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			fkj3ilssDTEwOWCLYJatCqz3jZY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"7e48f78a5b2c0d313039608b6096ad0aacf78d96"</string>
+		</dict>
+		<key>Frameworks/libopencv_aruco.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/Gs1a2ERC6xgJZOVFJya13SGyW4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"fc6b356b61110bac60259395149c9ad77486c96e"</string>
+		</dict>
+		<key>Frameworks/libopencv_aruco.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ulf6KtPKjNUtlC9bqH5xGZJJ/to=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ba57fa2ad3ca8cd52d942f5ba87e71199249feda"</string>
+		</dict>
+		<key>Frameworks/libopencv_bgsegm.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5C/YlzbxLsxZPA8NYRT3rF6pTSc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e42fd89736f12ecc593c0f0d6114f7ac5ea94d27"</string>
+		</dict>
+		<key>Frameworks/libopencv_bgsegm.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			+42Kw+h0kPemildB+Wg+U0mYARc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"fb8d8ac3e87490f7a68a5741f9683e5349980117"</string>
+		</dict>
+		<key>Frameworks/libopencv_bgsegm.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			pW6HS16wRmAgR5L9E2N7duLzKFE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a56e874b5eb04660204792fd13637b76e2f32851"</string>
+		</dict>
+		<key>Frameworks/libopencv_bioinspired.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			X6+kH6W7DxWOd8RdKdfEkCR50/g=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"5fafa41fa5bb0f158e77c45d29d7c4902479d3f8"</string>
+		</dict>
+		<key>Frameworks/libopencv_bioinspired.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/S5OWxcs4ma9LMl8F/Lfjl+QEKM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"fd2e4e5b172ce266bd2cc97c17f2df8e5f9010a3"</string>
+		</dict>
+		<key>Frameworks/libopencv_bioinspired.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			tPQFz+xiOHvuSWvRuXQ5r7DgVTo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b4f405cfec62387bee496bd1b97439afb0e0553a"</string>
+		</dict>
+		<key>Frameworks/libopencv_calib3d.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			GgP8Ia5nVGK9Igk9udSBNbRc5QM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"1a03fc21ae675462bd22093db9d48135b45ce503"</string>
+		</dict>
+		<key>Frameworks/libopencv_calib3d.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			19SSlvOBQGSx9fKDzmZsuc2IKDo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d7d49296f3814064b1f5f283ce666cb9cd88283a"</string>
+		</dict>
+		<key>Frameworks/libopencv_calib3d.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			98MNdST2tKkgI12fNnLmT9fkanw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f7c30d7524f6b4a920235d9f3672e64fd7e46a7c"</string>
+		</dict>
+		<key>Frameworks/libopencv_ccalib.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Q9bI4UufJie3hq/K3taqWkUNV74=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"43d6c8e14b9f2627b786afcaded6aa5a450d57be"</string>
+		</dict>
+		<key>Frameworks/libopencv_ccalib.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			L4auLdE2OdlFy8UGeFb5/J/Ha4E=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2f86ae2dd13639d945cbc5067856f9fc9fc76b81"</string>
+		</dict>
+		<key>Frameworks/libopencv_ccalib.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			DvQ8M3U4VFfJcpW2OV5PCZjkdJw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0ef43c3375385457c97295b6395e4f0998e4749c"</string>
+		</dict>
+		<key>Frameworks/libopencv_core.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			jzUgnFL7d4JxAhcyami2wN0MYyk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"8f35209c52fb7782710217326a68b6c0dd0c6329"</string>
+		</dict>
+		<key>Frameworks/libopencv_core.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			NChzY0lxzvFdXE4OHYv/JVBeprQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"342873634971cef15d5c4e0e1d8bff25505ea6b4"</string>
+		</dict>
+		<key>Frameworks/libopencv_core.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			02Tt3k5EGX/Eq3vxncuU9hAFXes=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d364edde4e44197fc4ab7bf19dcb94f610055deb"</string>
+		</dict>
+		<key>Frameworks/libopencv_datasets.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			jVxxss2W45calmWumrr3GFWeqmw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"8d5c71b2cd96e3971a9665ae9abaf718559eaa6c"</string>
+		</dict>
+		<key>Frameworks/libopencv_datasets.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			zxlE/ip6BRxnvw7jCpNepKuryAw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"cf1944fe2a7a051c67bf0ee30a935ea4ababc80c"</string>
+		</dict>
+		<key>Frameworks/libopencv_datasets.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			u8Ovgu9rvzYyCcFmH7WtSqNjGnE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"bbc3af82ef6bbf363209c1661fb5ad4aa3631a71"</string>
+		</dict>
+		<key>Frameworks/libopencv_dnn.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ixk2pPcDWAfo1L1re/1u9ov+naA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"8b1936a4f7035807e8d4bd6b7bfd6ef68bfe9da0"</string>
+		</dict>
+		<key>Frameworks/libopencv_dnn.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			z5n4YibG7HE+XqHw8Ul5NT43dvU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"cf99f86226c6ec713e5ea1f0f14979353e3776f5"</string>
+		</dict>
+		<key>Frameworks/libopencv_dnn.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/9P+l6Ba6+NenHQ3daIrh1/J5Yc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ffd3fe97a05aebe35e9c743775a22b875fc9e587"</string>
+		</dict>
+		<key>Frameworks/libopencv_dnn_objdetect.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			mZV7PzGgDNm/5QkNTDzgNxx0ZVo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"99957b3f31a00cd9bfe5090d4c3ce0371c74655a"</string>
+		</dict>
+		<key>Frameworks/libopencv_dnn_objdetect.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			8kSm41yJv/kXiWUDKdDH9YI1nxI=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f244a6e35c89bff91789650329d0c7f582359f12"</string>
+		</dict>
+		<key>Frameworks/libopencv_dnn_objdetect.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			LBvaAm/JI4gW9vOseKi5PiTcsZk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2c1bda026fc9238816f6f3ac78a8b93e24dcb199"</string>
+		</dict>
+		<key>Frameworks/libopencv_dnn_superres.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ZlksBv+RTdhtsMWx2o5uNWFSPNw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"66592c06ff914dd86db0c5b1da8e6e3561523cdc"</string>
+		</dict>
+		<key>Frameworks/libopencv_dnn_superres.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			N73iI5PqckIpAZqVxWesOF+RwsQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"37bde22393ea724229019a95c567ac385f91c2c4"</string>
+		</dict>
+		<key>Frameworks/libopencv_dnn_superres.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			OkYO0R97SGlJoNNs9p1ujanibIU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3a460ed11f7b486949a0d36cf69d6e8da9e26c85"</string>
+		</dict>
+		<key>Frameworks/libopencv_dpm.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7ab9367Vy1OVsIhFqYWn/Gx2utU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"eda6fddfaed5cb5395b08845a985a7fc6c76bad5"</string>
+		</dict>
+		<key>Frameworks/libopencv_dpm.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			CMQSPWizewYfy7sqLiqmMJP4kGc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"08c4123d68b37b061fcbbb2a2e2aa63093f89067"</string>
+		</dict>
+		<key>Frameworks/libopencv_dpm.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			aUd7bp2ytlF9+hw8ilEw6Mu/Gik=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"69477b6e9db2b6517dfa1c3c8a5130e8cbbf1a29"</string>
+		</dict>
+		<key>Frameworks/libopencv_face.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			3bfA2j24zc39AgBXp/vqDskLAZw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ddb7c0da3db8cdcdfd020057a7fbea0ec90b019c"</string>
+		</dict>
+		<key>Frameworks/libopencv_face.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			y0usqnFWIjwtXmVcac8GLHc9Ksw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"cb4bacaa7156223c2d5e655c69cf062c773d2acc"</string>
+		</dict>
+		<key>Frameworks/libopencv_face.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			79d6SEhyNMeOwLs7Kkmqd4p1IgU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"efd77a48487234c78ec0bb3b2a49aa778a752205"</string>
+		</dict>
+		<key>Frameworks/libopencv_features2d.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			2JU0JkS43dlq/6iB/ewOPR37xu8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d895342644b8ddd96affa881fdec0e3d1dfbc6ef"</string>
+		</dict>
+		<key>Frameworks/libopencv_features2d.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			BBxUTlJZGZtLgnQWLsIdXl5+IGY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"041c544e5259199b4b8274162ec21d5e5e7e2066"</string>
+		</dict>
+		<key>Frameworks/libopencv_features2d.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			BClOmzr/qSyvzrtNF53ftT2WUBo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"04294e9b3affa92cafcebb4d179ddfb53d96501a"</string>
+		</dict>
+		<key>Frameworks/libopencv_flann.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			D5rq3GgY9iwMyfd5/l8bUOtszoY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0f9aeadc6818f62c0cc9f779fe5f1b50eb6cce86"</string>
+		</dict>
+		<key>Frameworks/libopencv_flann.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			R9yv1oURfPbO6FYeotmMfaxsm6w=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"47dcafd685117cf6cee8561ea2d98c7dac6c9bac"</string>
+		</dict>
+		<key>Frameworks/libopencv_flann.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			3MzG/8Nui87Ov2ymPq8q875NesA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"dcccc6ffc36e8bcecebf6ca63eaf2af3be4d7ac0"</string>
+		</dict>
+		<key>Frameworks/libopencv_freetype.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			2bytmx/iRtZfpDmNQfmi1Jcf8dw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d9bcad9b1fe246d65fa4398d41f9a2d4971ff1dc"</string>
+		</dict>
+		<key>Frameworks/libopencv_freetype.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7qNHu3gbXHCRV+Fmt9tqzmq4oys=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"eea347bb781b5c709157e166b7db6ace6ab8a32b"</string>
+		</dict>
+		<key>Frameworks/libopencv_freetype.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			SVWqcKBLGAbjET4SX5/GRw7iJM0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"4955aa70a04b1806e3113e125f9fc6470ee224cd"</string>
+		</dict>
+		<key>Frameworks/libopencv_fuzzy.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			dWfINk1IMJepK777goV5u/wRF4Y=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"7567c8364d483097a92bbefb828579bbfc111786"</string>
+		</dict>
+		<key>Frameworks/libopencv_fuzzy.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			+V0uP0B7aBE7Tvcg29Gb6QK7vPg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f95d2e3f407b68113b4ef720dbd19be902bbbcf8"</string>
+		</dict>
+		<key>Frameworks/libopencv_fuzzy.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			VNn5ZWOnD9j5jY8cJdSqND7Sy+4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"54d9f96563a70fd8f98d8f1c25d4aa343ed2cbee"</string>
+		</dict>
+		<key>Frameworks/libopencv_gapi.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			9YDqYUDALM/J3fqk6QKapJZghHw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f580ea6140c02ccfc9ddfaa4e9029aa49660847c"</string>
+		</dict>
+		<key>Frameworks/libopencv_gapi.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Lt9R2hA5Q4Pgodb8Sqe1D5OQK/8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2edf51da10394383e0a1d6fc4aa7b50f93902bff"</string>
+		</dict>
+		<key>Frameworks/libopencv_gapi.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			zMiMFpuZLbP0mW04orKo9nC5FGM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ccc88c169b992db3f4996d38a2b2a8f670b91463"</string>
+		</dict>
+		<key>Frameworks/libopencv_hfs.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			IrvGp+OIIHbNXzUhZQKP/noKj6I=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"22bbc6a7e3882076cd5f352165028ffe7a0a8fa2"</string>
+		</dict>
+		<key>Frameworks/libopencv_hfs.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/mmaM2EwY1CdJjZv2GoIWqVhHyw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"fe699a33613063509d26366fd86a085aa5611f2c"</string>
+		</dict>
+		<key>Frameworks/libopencv_hfs.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			OeDL15lQKGYAQQsiVWoP88n8b0Y=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"39e0cbd79950286600410b22556a0ff3c9fc6f46"</string>
+		</dict>
+		<key>Frameworks/libopencv_highgui.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			UlMlcy/r32b74LZdTejP752I+Y8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"525325732febdf66fbe0b65d4de8cfef9d88f98f"</string>
+		</dict>
+		<key>Frameworks/libopencv_highgui.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			rdjA57nd+4qG7ax0G+0lVXtK5dk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"add8c0e7b9ddfb8a86edac741bed25557b4ae5d9"</string>
+		</dict>
+		<key>Frameworks/libopencv_highgui.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			2yIt994kXvS5N/b094EGNvmscqY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"db222df7de245ef4b937f6f4f7810636f9ac72a6"</string>
+		</dict>
+		<key>Frameworks/libopencv_img_hash.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			C3Z32C0HOFYlsjaAeXcICxyjrQI=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0b7677d82d07385625b236807977080b1ca3ad02"</string>
+		</dict>
+		<key>Frameworks/libopencv_img_hash.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			cMtdV7lDJgkxCfuLSXml3M8dT0w=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"70cb5d57b94326093109fb8b4979a5dccf1d4f4c"</string>
+		</dict>
+		<key>Frameworks/libopencv_img_hash.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			NvANZ+k4Ys3/2L68D9XlaCmjAzk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"36f00d67e93862cdffd8bebc0fd5e56829a30339"</string>
+		</dict>
+		<key>Frameworks/libopencv_imgcodecs.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			iQCqkBJBbQUW5uz9Z/IZkCr4vog=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"8900aa9012416d0516e6ecfd67f219902af8be88"</string>
+		</dict>
+		<key>Frameworks/libopencv_imgcodecs.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Crzptm3iYj2Sk+dEGtzlK7VKW50=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0abce9b66de2623d9293e7441adce52bb54a5b9d"</string>
+		</dict>
+		<key>Frameworks/libopencv_imgcodecs.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			HsJXSO6fV3blpHaPM0yJrkxL5wA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"1ec25748ee9f5776e5a4768f334c89ae4c4be700"</string>
+		</dict>
+		<key>Frameworks/libopencv_imgproc.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			LbEF50H87DN0sUY6JEU+qUfzYE4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2db105e741fcec3374b1463a24453ea947f3604e"</string>
+		</dict>
+		<key>Frameworks/libopencv_imgproc.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			0AncmLDpgnutUBAo6EUB5mlGVBg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d009dc98b0e9827bad501028e84501e669465418"</string>
+		</dict>
+		<key>Frameworks/libopencv_imgproc.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			4ouhRudUIb4ZHkMFAvVdy/r0wTc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e28ba146e75421be191e430502f55dcbfaf4c137"</string>
+		</dict>
+		<key>Frameworks/libopencv_intensity_transform.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			dKPJD0BE9sOviq1Igq7iErxtEM4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"74a3c90f4044f6c3af8aad4882aee212bc6d10ce"</string>
+		</dict>
+		<key>Frameworks/libopencv_intensity_transform.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Duzu3FdropnF6ry21g6sPtt/X5s=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0eeceedc576ba299c5eabcb6d60eac3edb7f5f9b"</string>
+		</dict>
+		<key>Frameworks/libopencv_intensity_transform.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			so4wiMx/bSVds12BCm7HWhna9ug=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b28e3088cc7f6d255db35d810a6ec75a19daf6e8"</string>
+		</dict>
+		<key>Frameworks/libopencv_line_descriptor.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			bku0TRiDc5TeflGpnZ9BnbbfMV0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6e4bb44d18837394de7e51a99d9f419db6df315d"</string>
+		</dict>
+		<key>Frameworks/libopencv_line_descriptor.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			4Cnd29PuEhU6EPznn9v29UWGPdM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e029dddbd3ee12153a10fce79fdbf6f545863dd3"</string>
+		</dict>
+		<key>Frameworks/libopencv_line_descriptor.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			H4kMnwyif9eHKMXL7TD4ESaMRxQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"1f890c9f0ca27fd78728c5cbed30f811268c4714"</string>
+		</dict>
+		<key>Frameworks/libopencv_mcc.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			hGIlc0VZl5+j7gI0H/3BiASUhhk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"846225734559979fa3ee02341ffdc18804948619"</string>
+		</dict>
+		<key>Frameworks/libopencv_mcc.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			V+bwhDk8Pxj1Ng9CCFFz/MNl2Ig=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"57e6f084393c3f18f5360f42085173fcc365d888"</string>
+		</dict>
+		<key>Frameworks/libopencv_mcc.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ONFW1KvPBV2psL9oLAgiDYJB3fk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"38d156d4abcf055da9b0bf682c08220d8241ddf9"</string>
+		</dict>
+		<key>Frameworks/libopencv_ml.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			RVAv4RMJqnLgUewmsA8Uiyua7y8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"45502fe11309aa72e051ec26b00f148b2b9aef2f"</string>
+		</dict>
+		<key>Frameworks/libopencv_ml.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			i1HHbaNmnzjy0+0LdRPDBVUDUAI=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"8b51c76da3669f38f2d3ed0b7513c30555035002"</string>
+		</dict>
+		<key>Frameworks/libopencv_ml.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			qem+LNtmgC/i69ONvg3wdHW0JHA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a9e9be2cdb66802fe2ebd38dbe0df07475b42470"</string>
+		</dict>
+		<key>Frameworks/libopencv_objdetect.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			msnab7dFzXC6QflyAwyvR292QjQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9ac9da6fb745cd70ba41f972030caf476f764234"</string>
+		</dict>
+		<key>Frameworks/libopencv_objdetect.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5Bj49QXWzmFH5ob23jKUGDfp2ZA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e418f8f505d6ce6147e686f6de32941837e9d990"</string>
+		</dict>
+		<key>Frameworks/libopencv_objdetect.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			3tzI7kci4D+mpQ8kLZ53RdHkySM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"dedcc8ee4722e03fa6a50f242d9e7745d1e4c923"</string>
+		</dict>
+		<key>Frameworks/libopencv_optflow.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			a7QXZzEru0CTbJuvN/DaFrZhJds=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6bb41767312bbb40936c9baf37f0da16b66125db"</string>
+		</dict>
+		<key>Frameworks/libopencv_optflow.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			2Uc1yqU6ccrmOvIT6+VaGgytS2g=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d94735caa53a71cae63af213ebe55a1a0cad4b68"</string>
+		</dict>
+		<key>Frameworks/libopencv_optflow.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			1ScIeihQojV04y9n+SM9/8LkhH8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d527087a2850a23574e32f67f9233dffc2e4847f"</string>
+		</dict>
+		<key>Frameworks/libopencv_phase_unwrapping.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			s+23qTQHEKspoHHisV6uTZ742I4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b3edb7a9340710ab29a071e2b15eae4d9ef8d88e"</string>
+		</dict>
+		<key>Frameworks/libopencv_phase_unwrapping.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ukAgFpDBpGhphIspa9gW4FsunP8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ba40201690c1a46869848b296bd816e05b2e9cff"</string>
+		</dict>
+		<key>Frameworks/libopencv_phase_unwrapping.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7GVFSOe2YENSiLXRoFsAjPeTZDE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ec654548e7b660435288b5d1a05b008cf7936431"</string>
+		</dict>
+		<key>Frameworks/libopencv_photo.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5GUd4uSdudBnC8YAWzZibfzRIxA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e4651de2e49db9d0670bc6005b36626dfcd12310"</string>
+		</dict>
+		<key>Frameworks/libopencv_photo.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			yETVr7SKcgFuHzQ08evIoUhYmVM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c844d5afb48a72016e1f3434f1ebc8a148589953"</string>
+		</dict>
+		<key>Frameworks/libopencv_photo.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			tcjdom1vbB/AB/KBE6mO8OnvaWM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b5c8dda26d6f6c1fc007f28113a98ef0e9ef6963"</string>
+		</dict>
+		<key>Frameworks/libopencv_plot.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			0OLZhmriZkXjW4kWJdat7YQ3O+4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d0e2d9866ae26645e35b891625d6aded84373bee"</string>
+		</dict>
+		<key>Frameworks/libopencv_plot.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			PiMMeg1OplAgaQjZiBMYD3oTfRA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3e230c7a0d4ea650206908d98813180f7a137d10"</string>
+		</dict>
+		<key>Frameworks/libopencv_plot.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Z7GijuF0GMBmhmAOrXdWfjKsPIQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"67b1a28ee17418c06686600ead77567e32ac3c84"</string>
+		</dict>
+		<key>Frameworks/libopencv_quality.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7KHX54Qk4dfkWgakjBbi+VpRcvw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"eca1d7e78424e1d7e45a06a48c16e2f95a5172fc"</string>
+		</dict>
+		<key>Frameworks/libopencv_quality.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			meSqgs6MUlrV95IsJY/+NEqczeA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"99e4aa82ce8c525ad5f7922c258ffe344a9ccde0"</string>
+		</dict>
+		<key>Frameworks/libopencv_quality.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			YRFFX24K5wcqeUOHRwlO9XkMfVc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6111455f6e0ae7072a79438747094ef5790c7d57"</string>
+		</dict>
+		<key>Frameworks/libopencv_rapid.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			xwqdXy1x9PrSXAefgEuAoqgf80Q=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c70a9d5f2d71f4fad25c079f804b80a2a81ff344"</string>
+		</dict>
+		<key>Frameworks/libopencv_rapid.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			lJ+HHjzLBJu+IJ7+aBk35A+s+U4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"949f871e3ccb049bbe209efe681937e40facf94e"</string>
+		</dict>
+		<key>Frameworks/libopencv_rapid.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			14De4LqTYGeP4LpM2IF7L9sGJ/o=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d780dee0ba9360678fe0ba4cd8817b2fdb0627fa"</string>
+		</dict>
+		<key>Frameworks/libopencv_reg.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			VudZCiDSR0yy1djrz+Yn1rCTTmU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"56e7590a20d2474cb2d5d8ebcfe627d6b0934e65"</string>
+		</dict>
+		<key>Frameworks/libopencv_reg.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			erguZ6LMzNNhTksOYHtsT3quefQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"7ab82e67a2ccccd3614e4b0e607b6c4f7aae79f4"</string>
+		</dict>
+		<key>Frameworks/libopencv_reg.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			CAC//dMKZT2Uc30vYQd3CsxROmw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0800bffdd30a653d94737d2f6107770acc513a6c"</string>
+		</dict>
+		<key>Frameworks/libopencv_rgbd.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			MgIHRaL/oRyGIAWRPlW14tf6Lx4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"32020745a2ffa11c862005913e55b5e2d7fa2f1e"</string>
+		</dict>
+		<key>Frameworks/libopencv_rgbd.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			yVhNhVdWuUL0eZ9CxqBg6S+M+WI=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c9584d855756b942f4799f42c6a060e92f8cf962"</string>
+		</dict>
+		<key>Frameworks/libopencv_rgbd.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			WivUuijEcMRW9ViS17qjZfDyP/c=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"5a2bd4ba28c470c456f55892d7baa365f0f23ff7"</string>
+		</dict>
+		<key>Frameworks/libopencv_saliency.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			oKCvKOgwTOhos0OcG3ri5dI93mI=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a0a0af28e8304ce868b3439c1b7ae2e5d23dde62"</string>
+		</dict>
+		<key>Frameworks/libopencv_saliency.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			kC9bQK98LyVWSJ/rVDnOZXYOCog=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"902f5b40af7c2f2556489feb5439ce65760e0a88"</string>
+		</dict>
+		<key>Frameworks/libopencv_saliency.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			La9AxpicDe5dOpdrzpHnZ9S0CcI=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2daf40c6989c0dee5d3a976bce91e767d4b409c2"</string>
+		</dict>
+		<key>Frameworks/libopencv_sfm.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			qmtI17rZzF2iOSNLzYnX12PDxUY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"aa6b48d7bad9cc5da239234bcd89d7d763c3c546"</string>
+		</dict>
+		<key>Frameworks/libopencv_sfm.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			DsarnHBIkRi0cQfNUgVUL82Ey7k=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0ec6ab9c70489118b47107cd5205542fcd84cbb9"</string>
+		</dict>
+		<key>Frameworks/libopencv_sfm.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			KRgXNs3XlmkIxOIKGSrbpzdyaic=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"29181736cdd7966908c4e20a192adba737726a27"</string>
+		</dict>
+		<key>Frameworks/libopencv_shape.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			wimuo6/A5HsT2l7tVpKpOyBIbvE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c229aea3afc0e47b13da5eed5692a93b20486ef1"</string>
+		</dict>
+		<key>Frameworks/libopencv_shape.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			XLNeqHR+vMi0BnFjILnvswSItHg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"5cb35ea8747ebcc8b406716320b9efb30488b478"</string>
+		</dict>
+		<key>Frameworks/libopencv_shape.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			N7Qfn7+IVMKON+In+UnO8x81Ygc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"37b41f9fbf8854c28e37e227f949cef31f356207"</string>
+		</dict>
+		<key>Frameworks/libopencv_signal.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			so3YOsSNHwkeOeuRGfoxpmE3q90=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b28dd83ac48d1f091e39eb9119fa31a66137abdd"</string>
+		</dict>
+		<key>Frameworks/libopencv_signal.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			nBZdffaK5lHMzmubwh0UKRZLXpM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9c165d7df68ae651ccce6b9bc21d1429164b5e93"</string>
+		</dict>
+		<key>Frameworks/libopencv_signal.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Ssxqgc8Sr2z5X14PPuUpVkvMR74=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"4acc6a81cf12af6cf95f5e0f3ee529564bcc47be"</string>
+		</dict>
+		<key>Frameworks/libopencv_stereo.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			cVf6cbeWasfLNn5rrnkK3LqjAmE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"7157fa71b7966ac7cb367e6bae790adcbaa30261"</string>
+		</dict>
+		<key>Frameworks/libopencv_stereo.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			LAT1xYGMneRkIQTtf362umxxGPM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2c04f5c5818c9de4642104ed7f7eb6ba6c7118f3"</string>
+		</dict>
+		<key>Frameworks/libopencv_stereo.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			3T7SnSjUFtHcQ9keCCAVkGZnR0c=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"dd3ed29d28d416d1dc43d91e0820159066674747"</string>
+		</dict>
+		<key>Frameworks/libopencv_stitching.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7WI5rUByxZtTth6BEIgnLV60DPg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ed6239ad4072c59b53b61e811088272d5eb40cf8"</string>
+		</dict>
+		<key>Frameworks/libopencv_stitching.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			KIXKvXxrowlLrw+9JfaShlwRo10=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2885cabd7c6ba3094baf0fbd25f692865c11a35d"</string>
+		</dict>
+		<key>Frameworks/libopencv_stitching.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			L+pxeTQ7juuvb0JyWsg2MX0EPl4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2fea7179343b8eebaf6f42725ac836317d043e5e"</string>
+		</dict>
+		<key>Frameworks/libopencv_structured_light.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			b7MNGYzNyEi1wdlJ6t4QkA465W4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6fb30d198ccdc848b5c1d949eade10900e3ae56e"</string>
+		</dict>
+		<key>Frameworks/libopencv_structured_light.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			+XPi9Z4isCaFWJeB9P7530GeDmY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f973e2f59e22b02685589781f4fef9df419e0e66"</string>
+		</dict>
+		<key>Frameworks/libopencv_structured_light.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			kXDw1zLh3at2a1TD+OiHv9gi1bU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9170f0d732e1ddab766b54c3f8e887bfd822d5b5"</string>
+		</dict>
+		<key>Frameworks/libopencv_superres.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			C7wib92B/OMb4Er1yI1CO7s6C40=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0bbc226fdd81fce31be04af5c88d423bbb3a0b8d"</string>
+		</dict>
+		<key>Frameworks/libopencv_superres.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			pVR7pKjv4YJT/g4hho61KkEL98o=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a5547ba4a8efe18253fe0e21868eb52a410bf7ca"</string>
+		</dict>
+		<key>Frameworks/libopencv_superres.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ixFhEvSsA4ZsfmsmgDbV82vxXdE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"8b116112f4ac03866c7e6b268036d5f36bf15dd1"</string>
+		</dict>
+		<key>Frameworks/libopencv_surface_matching.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			fVFW+sSkMCqTkmVIU+0ywWFumww=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"7d5156fac4a4302a9392654853ed32c1616e9b0c"</string>
+		</dict>
+		<key>Frameworks/libopencv_surface_matching.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			DNd7ZcRIYkHQgJ/xPTWiwvS/Rqs=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0cd77b65c4486241d0809ff13d35a2c2f4bf46ab"</string>
+		</dict>
+		<key>Frameworks/libopencv_surface_matching.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			oO67+wJt5ARZCYhld7+A4mKT07o=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a0eebbfb026de4045909886577bf80e26293d3ba"</string>
+		</dict>
+		<key>Frameworks/libopencv_text.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			TBRwZsJ9AAZuFgrBu36e2oM4L/k=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"4c147066c27d00066e160ac1bb7e9eda83382ff9"</string>
+		</dict>
+		<key>Frameworks/libopencv_text.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			j+qW1k7YRKWYyULKx0BVS/V+l5k=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"8fea96d64ed844a598c942cac740554bf57e9799"</string>
+		</dict>
+		<key>Frameworks/libopencv_text.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			4YEfwFlp7YEPCpVByVQK1mqZxF0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e1811fc05969ed810f0a9541c9540ad66a99c45d"</string>
+		</dict>
+		<key>Frameworks/libopencv_tracking.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			KtV7iio5CCUv9OzKNgP26ZiHpms=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2ad57b8a2a3908252ff4ecca3603f6e99887a66b"</string>
+		</dict>
+		<key>Frameworks/libopencv_tracking.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Z1NZ+xHgwm5QJtN8Uxy7EQzSM0s=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"675359fb11e0c26e5026d37c531cbb110cd2334b"</string>
+		</dict>
+		<key>Frameworks/libopencv_tracking.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			O+rPwjM86NgWqGilnh5kGaJrfcQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3beacfc2333ce8d816a868a59e1e6419a26b7dc4"</string>
+		</dict>
+		<key>Frameworks/libopencv_video.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ICO4MFjk2VAgsDgVTQMFPFMVNBE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2023b83058e4d95020b038154d03053c53153411"</string>
+		</dict>
+		<key>Frameworks/libopencv_video.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			eF8GUBGHY2tN22eH10PfxJIVqZs=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"785f06501187636b4ddb6787d743dfc49215a99b"</string>
+		</dict>
+		<key>Frameworks/libopencv_video.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			0dYYOkgLfAR9rmq5VcAEWCkchqg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d1d6183a480b7c047dae6ab955c00458291c86a8"</string>
+		</dict>
+		<key>Frameworks/libopencv_videoio.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			obcYPSkR7fKlGQf1VtUApSepzwA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a1b7183d2911edf2a51907f556d500a527a9cf00"</string>
+		</dict>
+		<key>Frameworks/libopencv_videoio.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			F35TTtCQXbOBAfSXw4ROCuzbvso=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"177e534ed0905db38101f497c3844e0aecdbbeca"</string>
+		</dict>
+		<key>Frameworks/libopencv_videoio.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			tmy83sOALpjpfdmtp6pOvwxA2jk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b66cbcdec3802e98e97dd9ada7aa4ebf0c40da39"</string>
+		</dict>
+		<key>Frameworks/libopencv_videostab.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			0+9GKVTI7PJfu+08HD0IRRgSnVE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d3ef462954c8ecf25fbbed3c1c3d084518129d51"</string>
+		</dict>
+		<key>Frameworks/libopencv_videostab.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			1nfETRXCvx2pEvffyuE1bhKSn1o=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d677c44d15c2bf1da912f7dfcae1356e12929f5a"</string>
+		</dict>
+		<key>Frameworks/libopencv_videostab.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			NIEFECtSMKO8QcL+B679ep/2/eI=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"348105102b5230a3bc41c2fe07aefd7a9ff6fde2"</string>
+		</dict>
+		<key>Frameworks/libopencv_viz.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			zASyVbPIzkeaWzaQSucz+cdJLAE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"cc04b255b3c8ce479a5b36904ae733f9c7492c01"</string>
+		</dict>
+		<key>Frameworks/libopencv_viz.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			rvIytp7Oj1aCLY6DGEn1ICZ0th8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"aef232b69ece8f56822d8e831849f5202674b61f"</string>
+		</dict>
+		<key>Frameworks/libopencv_viz.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			6gVcjYogPXnixWKUc6zTGZ9Dl3Y=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ea055c8d8a203d79e2c5629473acd3199f439776"</string>
+		</dict>
+		<key>Frameworks/libopencv_wechat_qrcode.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			MUJ3qA//TOL6+7znYCZb59zHb+I=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"314277a80fff4ce2fafbbce760265be7dcc76fe2"</string>
+		</dict>
+		<key>Frameworks/libopencv_wechat_qrcode.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			PNUuJdd2vqUxdtnmn5BrT96Pzag=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3cd52e25d776bea53176d9e69f906b4fde8fcda8"</string>
+		</dict>
+		<key>Frameworks/libopencv_wechat_qrcode.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			CkHNygs+ocSZqI6d7dmifgwaX4A=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0a41cdca0b3ea1c499a88e9dedd9a27e0c1a5f80"</string>
+		</dict>
+		<key>Frameworks/libopencv_xfeatures2d.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			g24DpgvtPvO9ORU15ZwMt4kxpq4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"836e03a60bed3ef3bd391535e59c0cb78931a6ae"</string>
+		</dict>
+		<key>Frameworks/libopencv_xfeatures2d.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			jzeYWaaVYV6DMwkUA3pXy+qz6r8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"8f379859a695615e83330914037a57cbeab3eabf"</string>
+		</dict>
+		<key>Frameworks/libopencv_xfeatures2d.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Q0JQ9YHlSXuuPW9ieX1/1GQ5NCs=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"434250f581e5497bae3d6f62797d7fd46439342b"</string>
+		</dict>
+		<key>Frameworks/libopencv_ximgproc.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			++WCZgd/qgvL6AVJYZmKwVXvGbY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"fbe58266077faa0bcbe8054961998ac155ef19b6"</string>
+		</dict>
+		<key>Frameworks/libopencv_ximgproc.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5lTbpP/+Jt8N2Of3MonG+uHeP4M=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e654dba4fffe26df0dd8e7f73289c6fae1de3f83"</string>
+		</dict>
+		<key>Frameworks/libopencv_ximgproc.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7zNDBLLVsl19GsvkJWBvjCM+oUg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ef334304b2d5b25d7d1acbe425606f8c233ea148"</string>
+		</dict>
+		<key>Frameworks/libopencv_xobjdetect.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5VwcaD68/PX7hBVORyHiCvx5soo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e55c1c683ebcfcf5fb84154e4721e20afc79b28a"</string>
+		</dict>
+		<key>Frameworks/libopencv_xobjdetect.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			2u8OUpI91YlhsDXdIwR5B/00rqQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"daef0e52923dd58961b035dd23047907fd34aea4"</string>
+		</dict>
+		<key>Frameworks/libopencv_xobjdetect.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			0im9sP3awQOM+O+PSv679x/Vjkk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d229bdb0fddac1038cf8ef8f4afebbf71fd58e49"</string>
+		</dict>
+		<key>Frameworks/libopencv_xphoto.4.11.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			orK0ma3l+tOi2MUagxl0J2clGdk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a2b2b499ade5fad3a2d8c51a83197427672519d9"</string>
+		</dict>
+		<key>Frameworks/libopencv_xphoto.411.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			bIpR6Tzx7o81ZViyiYH3/RAplW4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6c8a51e93cf1ee8f356558b28981f7fd1029956e"</string>
+		</dict>
+		<key>Frameworks/libopencv_xphoto.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			iZ115s4oMgRBmgOo5ghnuM7x8J4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"899d75e6ce283204419a03a8e60867b8cef1f09e"</string>
+		</dict>
+		<key>Frameworks/libsharpyuv.0.1.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			x+ZCJAynecLWITg5W0fOzLjrkyg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c7e642240ca779c2d62138395b47ceccb8eb9328"</string>
+		</dict>
+		<key>Frameworks/libsharpyuv.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			x+ZCJAynecLWITg5W0fOzLjrkyg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c7e642240ca779c2d62138395b47ceccb8eb9328"</string>
+		</dict>
+		<key>Frameworks/libsharpyuv.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7NlJufGjA1HvFR+m/Sb4VXH/xbg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ecd949b9f1a30351ef151fa6fd26f85571ffc5b8"</string>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
